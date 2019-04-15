@@ -19,4 +19,4 @@ It returns the number of double letters of a specific letter in the string
 ```
 check(stringArray, 's')
 ```
-Returns how many times double 's' are in the string
+Returns how many times double 's' is in the string
