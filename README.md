@@ -5,7 +5,7 @@ Checks number odouble letters in string
 
 Download the library and add the header #include "doubleletter.h"
 
-### Prototype
+### Function
 
 ```
 int check(char texto[],char letter)
