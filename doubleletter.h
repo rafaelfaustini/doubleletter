@@ -18,19 +18,3 @@ int check(char texto[],char letter)
   return quant;
   
 }
-
-int main()
-{
-char nome[100],l;
-int numero; 
-fflush(stdin);
-printf("Qual a letra ? ");
-scanf("%c",&l);
-  
-printf("Qual o texto ? ");
-scanf("%s",nome);
-  
-numero = check(nome,l);
-  
-printf("O numero de caracteres dobrados %c eh %d\n ",l,numero);
-}
